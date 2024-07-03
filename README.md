@@ -28,4 +28,13 @@ Create a personal portfolio website to showcase your expertise as a web develope
    c. Projects Showcase:
       · Feature a portfolio section your notable projects.
       · Include project descriptions, screenshots, and links to live demos or Github repositories.
-   d. Contact
+   d. Contact Information:
+      · Clear and accessible contact details.
+      · Contact form for inquiries.
+   e. Portfolio Navigation:
+      · Easy navigation with a menu bar or sidebar.
+      · Smooth scrolling and user-friendly interface.
+# Conclusion:
+Building a personal portfolio website is crucial for showcasing your capabilities and attracting potential clients or employers. Focus on creating a professional and visually appealing design that highlights your skills and projects effectively. Regular updates and maintenance will ensure your portfolio remains relevant and impactful as you progress in your career as a web developer.
+# Linkedin profile:
+www.linkedin.com/in/mrunali-patil-39bb3730a
